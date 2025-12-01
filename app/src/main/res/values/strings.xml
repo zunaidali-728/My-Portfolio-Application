@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name"  formatted="true">Portfolio</string>
+    <string name="title">Hello!!</string>
+    <string name="intro">I\'m a Software Engineer...</string>
+    <string name="location">Kolkata, India</string>
+    <string name="description">avatar</string>
+    <string name="about_me">A dedicated and detail-oriented Software Engineer at Microsoft, focused on building efficient, scalable, and user-centric software solutions with a strong commitment to continuous learning and clean development practices.</string>
+    <string name="button_name">Know More..</string>
+    <string name="project_dec">Project Description</string>
+    <string name="project_1">Food Do\'nation \"Application\"</string>
+    <string name="project_about_1">A Java-based Food Donation Application designed to connect donors, NGOs, and volunteers through a streamlined digital platform. The system enables users to register, list surplus food, track real-time availability, and manage pickup or delivery requests. Built using Java, XML-based UI layouts, and Firebase/SQL for backend storage, the application focuses on reducing food waste while improving last-mile distribution efficiency. Core features include donor authentication, geolocation-based NGO matching, request scheduling, and an admin panel for monitoring donation activities. The project emphasizes clean architecture, modular design, and robust data handling to ensure reliability and scalability in real-world use.</string>
+    <string name="see_Project">See Project</string>
+    <string name="see_resume">Resume</string>
+    <string name="contact_me">Connect With Me?</string>
+    <string name="lets_talk">Let\'s Talk…</string>
+    <string name="project_button">Project</string>
+    <string name="certificate_button">Certificate</string>
+    <string name="whatsapp">whatsapp</string>
+    <string name="linkedin">linkedin</string>
+    <string name="instagram">instagram</string>
+    <string name="github">github</string>
+    <string name="email">email</string>
+    <string name="emoji">smile</string>
+    <string name="home">Home</string>
+    <string name="project">My Project</string>
+    <string name="education">My Education</string>
+    <string name="connect_me">Want to Connect?</string>
+    <string name="college_name">Indian Institute Of Technology, KGP</string>
+    <string name="college_course">B.Tech in Computer Science and Engineering</string>
+    <string name="college_year">2021" - "2025</string>
+    <string name="school_1">Guru Gobind Singh Public School</string>
+    <string name="school_course_1">Higher Secondary School Certificate Exam</string>
+    <string name="school_year_1">2018" - "2019</string>
+    <string name="school_2">D.A.V Public School</string>
+    <string name="school_course_2">Secondary School Certificate Exam</string>
+    <string name="school_year_2">2016" - "2017</string>
+</resources>
